@@ -1,4 +1,4 @@
-# The Polkadot Hakcer Resource Guide
+# The Polkadot Hacker Resource Guide
 
 Welcome to a curated collection of resources for builders working on bounties specific to building on the core Polkadot tech stack and protocol! 
 
