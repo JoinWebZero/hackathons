@@ -37,7 +37,7 @@ These may be a little advanced in the context of a hackathon and especially if y
 - [Zombienet](https://paritytech.github.io/zombienet/): a testing framework for Substrate based blockchains, providing a simple CLI tool that allows users to spawn and test ephemeral networks
 - [SubWasm](https://github.com/chevdor/subwasm): a CLI utility to look inside a Substrate WASM Runtime, useful to inspect and compare the metadata of Substrate based runtimes such as Polkadot or Kusama.
 
-_Have gander in the [Awesome Substrate repo](https://github.com/substrate-developer-hub/awesome-substrate) to see other tools and libraries that the developer community has built.♥️_
+_Have a gander in the [Awesome Substrate repo](https://github.com/substrate-developer-hub/awesome-substrate) to see other tools and libraries that the developer community has built.♥️_
 
 ## 💻 UI and app development: interacting with Polkadot 
 
