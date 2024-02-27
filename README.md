@@ -52,7 +52,7 @@ _👉 Want to jump into some hands-on learning material? Head to the [Polkadot J
 ### 🍦 Javascript libraries
 
 - [Polkadot JS API](https://polkadot.js.org/docs/api/): the Javascript library for interacting with Substrate blockchains
-- [Polkadot UI](https://github.com/polkadot-ui): helpful components for building Polkadot UIs, hooks, recipes, network information in a puzzle-fit manner (see [Polkadot Cloud](https://polkadot.cloud/) documentation)
+- [Polkadot UI](http://www.polkadot-ui.xyz): helpful components for building Polkadot UIs, hooks, recipes, network information in a puzzle-fit manner
 - [Substrate Connect](https://github.com/paritytech/substrate-connect): run Wasm Light Clients for any Substrate based chain directly in your browser
 
 ### 🦀 Rust libraries
