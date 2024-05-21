@@ -4,7 +4,7 @@ Welcome to a curated collection of resources to guide you through building in th
 
 ## Overview
 
-- [Polkadot wallets](https://github.com/haquefardeen/awesome-dot?tab=readme-ov-file#wallets): a list of all Polkadot compatible wallets you may want to integrate into your solutions.
+- [Polkadot wallets](https://github.com/haquefardeen/awesome-dot?tab=readme-ov-file#wallets): a list of Polkadot compatible wallets you may want to use in your solutions.
 - [Polkadot block explorers](https://github.com/haquefardeen/awesome-dot?tab=readme-ov-file#block-explorers): Subscan and Statescan are your go-to block explorers for querying Polkadot and all its connected chains.
 
 ## Popular consumer and community apps built for Polkadot
