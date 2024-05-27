@@ -90,6 +90,5 @@ Perhaps you’re more interested in building developer libraries or integrations
 
 ## Resources 
 
-* Popular consumer and community apps built for Polkadot (TBC)
-* Popular infrastructure and appchain development projects for inspiration (TBC)
-* Dev resources doc (TBC)
+* [Popular consumer and community apps built for Polkadot](https://github.com/JoinWebZero/hackathons/blob/main/README.md#popular-consumer-and-community-apps-built-for-polkadot)
+* [Dev resources doc](https://github.com/JoinWebZero/hackathons/blob/main/README.md#developer-resources)
