@@ -31,7 +31,7 @@ Planning on hacking on your own appchain idea using the Polkadot SDK? Start by [
 
 Here are some appchain templates by Open Zeppelin for you to start hacking on an appchain idea:
 
-- [Generic Substrate Node Template](https://github.com/substrate-developer-hub/substrate-node-template): This template has all the basic features you expect to find on a typical L1 blockchain or parachain. Basic, yet preserving the most important pallets that are used in the Polkadot ecosystem today and a safe runtime base configuration. Head to [their docs](https://docs.openzeppelin.com/substrate-runtimes/1.0.0/) for a quickstart guide!
+- [Generic Substrate Node Template](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template): This template has all the basic features you expect to find on a typical L1 blockchain or parachain. Basic, yet preserving the most important pallets that are used in the Polkadot ecosystem today and a safe runtime base configuration. Head to [their docs](https://docs.openzeppelin.com/substrate-runtimes/1.0.0/) for a quickstart guide!
 - [EVM Parachain Template]([https://github.com/paritytech/frontier-parachain-template](https://github.com/OpenZeppelin/polkadot-evm-runtime-template)): a parachain template by Open Zeppelin for launching EVM-compatible parachains.
 
 **💻 UI and app development for interacting with Polkadot and its connected chains**
