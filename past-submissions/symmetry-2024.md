@@ -1,3 +1,16 @@
+Webzero hosted a chain-agnostic hackathon alongside the main [web3summit event](web3summit.com). The hackathon kicked off at 10AM on Monday August 19th and submissions were due at 1PM on Wednesday August 21st. There was a total of 28 submissions. Well done to everyone who participated! 🚀
+
+*A fully-functional and user-friendly, decentralized web can only be achieved when we find symmetry—without sacrificing our ideals.*
+
+*- How can we improve decentralized technology’s usability without compromising security?*
+
+*- Can we unify fragmented innovations into a cohesive ecosystem?*
+
+*- Can we go further in innovating the bedrock on which decentralized applications currently rest on?*
+
+*The symmetry lies in a balance of opposites and tensions in ideals, a harmony between opposing forces. Take a chance to ignite your hacker spirit and find the balance (source: https://symmetry.theblockspace.net/)*.
+
+
 | Project name                                          | Team lead full name            | Description                                           | Github repository                                     | Project demo (optional)                               | Link to slides                                        | Social media post                                     | Hacker comments to readers                            |   Number of hackers | Tech stack                                                                                                                                                   |
 |:------------------------------------------------------|:-------------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------|--------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Airdrops for Everyone on Polkadot                     | Daniel Vaculík                 | Airdrops at the moment are very expensive. we aim ... | https://github.com/RostislavLitovkin/AirdropsForEv... |                                                       |                                                       |                                                       |                                                       |                 2   | Rust, wasm, typescript, react                                                                                                                                |
