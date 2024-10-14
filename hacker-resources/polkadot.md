@@ -69,9 +69,9 @@ _Have a look at the Polkadot Wiki for a complete list of tools in the Polkadot e
 
 ## 🛜 Testnets 
 
-[Rococo](https://substrate.io/developers/rococo-network/) is a Polkadot-like test network maintained by Parity Technologies that contains a number of ecosystem parachains connected to it as well as [core system chains](https://wiki.polkadot.network/docs/learn-system-chains).
+[Paseo](https://github.com/paseo-network) is a Polkadot-like test network maintained by the Polkadot community that contains a number of ecosystem parachains connected to it as well as [core system chains](https://wiki.polkadot.network/docs/learn-system-chains).
 
 You might want to test out interacting with one of the system chains, like the AssetHub, BridgeHub, Coretime or People chains. Or deploy ink! contracts to the dedicated Contracts chain.
 
-- Use the Rococo faucet to receive ROCs on the chain you want to use: https://paritytech.github.io/polkadot-testnet-faucet/
-- Head to the Rococo developer console to explore the chains connected to it: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/explorer
+- Use the Polkadot faucet to receive PAS or any token of the test chains you like to experiment with: https://faucet.polkadot.io/
+- Head to the Rococo developer console to explore the chains connected to it: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpaseo.rpc.amforc.com#/explorer
