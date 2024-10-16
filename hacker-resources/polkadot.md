@@ -23,24 +23,28 @@ _Curious about working full-time in the Polkadot ecosystem? Visit the [Polkadot 
 _Get started with contract development:_
 
 - [ink!](https://use.ink/): a programming language for Substrate native smart contracts.
-- [Contracts UI](https://contracts-ui.substrate.io/?rpc=wss://rococo-contracts-rpc.polkadot.io): a simple UI for deploying contracts to various appchains that contain the contracts pallet. 
+- [Contracts UI](https://ui.use.ink/?rpc=wss://rpc2.paseo.popnetwork.xyz): a simple UI for deploying contracts to various appchains that contain the contracts pallet. 
 
 _Or dive into building with the Polkadot SDK:_
 
 Planning on hacking on your own appchain idea using the Polkadot SDK? Start by [setting up your development environment](https://docs.substrate.io/install/) for Rust and Substrate. Then, dive into [this hands-on guide](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/guides/your_first_pallet/index.html) to learn about building your first FRAME pallet. 🚀
 
-Here are some appchain templates by Open Zeppelin for you to start hacking on an appchain idea:
+Here are some appchain templates for you to start hacking on an appchain idea:
 
-- [Generic Substrate Node Template](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template): This template has all the basic features you expect to find on a typical L1 blockchain or parachain. Basic, yet preserving the most important pallets that are used in the Polkadot ecosystem today and a safe runtime base configuration. Head to [their docs](https://docs.openzeppelin.com/substrate-runtimes/1.0.0/) for a quickstart guide!
-- [EVM Parachain Template]([https://github.com/paritytech/frontier-parachain-template](https://github.com/OpenZeppelin/polkadot-evm-runtime-template)): a parachain template by Open Zeppelin for launching EVM-compatible parachains.
+- [Generic Runtime Template](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template): This template by OpenZeppelin has all the basic features you expect to find on a typical L1 blockchain or parachain. Basic, yet preserving the most important pallets that are used in the Polkadot ecosystem today and a safe runtime base configuration. Head to [their docs](https://docs.openzeppelin.com/substrate-runtimes/1.0.0/) for a quickstart guide!
+- [EVM Parachain Template](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/evm-template): a parachain template by OpenZeppelin for launching EVM-compatible parachains.
+- [Minimal, Solochain and Parachain Templates](https://github.com/paritytech/polkadot-sdk/tree/master/templates): Default templates available on Polkadot SDK
+
+Also, check out [Tanssi network](https://www.tanssi.network/) and [onpop.io](https://onpop.io/) which provide intuitive tooling that enables deployment of appchains. 
 
 **💻 UI and app development for interacting with Polkadot and its connected chains**
 
 A list of templates, libraries and tools to help you get started with creating user-facing applications for Polkadot. _👉 Want to jump into some hands-on learning material? Head to the [Polkadot JS API recipes](https://polkadotjs-developer-hub.gitbook.io/polkadotjs-recipies/)._
 
-**🍦 Javascript libraries**
+**🍦 Frontend libraries**
 
-- [Polkadot JS API](https://polkadot.js.org/docs/api/): the Javascript library for interacting with Substrate blockchains
+- [Polkadot JS API](https://polkadot.js.org/docs/api/): the Javascript library for interacting with blockchains built with Polkadot SDK
+- [Polkadot API](https://papi.how/): Typescript API to interact with Polkadot chains.
 - [Polkadot UI](http://www.polkadot-ui.xyz): helpful components for building Polkadot UIs, hooks, recipes, network information in a puzzle-fit manner
 - [Substrate Connect](https://github.com/paritytech/substrate-connect): run Wasm Light Clients for any Substrate based chain directly in your browser
 - [Polkadot React Template](https://github.com/shawntabrizi/polkadot-react-template): a minimal React JS template for Polkadot SDK chains.
@@ -58,6 +62,7 @@ A list of templates, libraries and tools to help you get started with creating u
 **🏆 Other notable tools for application developers**
 
 - [Polkadot JS Apps UI](https://polkadot.js.org/apps/#/explorer): the all-in-one developer console for interacting with Polkadot including test networks
+- [Polkadot Developer Console](https://console.polkadot.cloud/): Still in alpha phase, but under active development.
 - [Metadata explorer](https://wiki.polkadot.network/docs/metadata): visualize the metadata of various parachains
 - [Siws](https://siws.xyz/): an authentication standard for signing-in with a Substrate account with Talisman.
 
@@ -66,6 +71,8 @@ A list of templates, libraries and tools to help you get started with creating u
 
 _Have a look at the Polkadot Wiki for a complete list of tools in the Polkadot ecosystem [here](https://wiki.polkadot.network/docs/build-tools-index)._ Here's a list of additional useful resources:
 
+- [DotCodeSchool](https://dotcodeschool.com/courses): short courses on blockchain development
+- [Polkadot Open Source Stack](https://wiki.polkadot.network/docs/build-open-source): A collection of Open GitHub repositories fuunded by Web3 Foundation grants and Polkadot Treasury.
 
 ## 🛜 Testnets 
 
