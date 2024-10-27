@@ -43,11 +43,11 @@ A list of templates, libraries and tools to help you get started with creating u
 
 **🍦 Frontend libraries**
 
-- [Polkadot JS API](https://polkadot.js.org/docs/api/): the Javascript library for interacting with blockchains built with Polkadot SDK
-- [Polkadot API](https://papi.how/): Typescript API to interact with Polkadot chains.
+- [Polkadot API](https://papi.how/): Typescript API to interact with Polkadot chains
 - [Polkadot UI](http://www.polkadot-ui.xyz): helpful components for building Polkadot UIs, hooks, recipes, network information in a puzzle-fit manner
-- [Substrate Connect](https://github.com/paritytech/substrate-connect): run Wasm Light Clients for any Substrate based chain directly in your browser
-- [Polkadot React Template](https://github.com/shawntabrizi/polkadot-react-template): a minimal React JS template for Polkadot SDK chains.
+- [Polkadot JS API](https://polkadot.js.org/docs/api/): the Javascript library for interacting with blockchains built with Polkadot SDK
+- [Polkadot React Template](https://github.com/shawntabrizi/polkadot-react-template): a minimal React JS template for Polkadot SDK chains
+- [Reactive DOT](https://reactivedot.dev/): A reactive library for building Substrate front-ends
 
 **🦀 Rust libraries**
 
