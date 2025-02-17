@@ -44,9 +44,11 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 `⚠️ Intro text needed? Specific order? ⚠️`
 
-### 🤝 Positive Blockchain Alliance
+### 🤝 Blockchain for Good Alliance (BGA)
 
-- **Prize:** $3,000 USD  
+- **Prize:** $1,500 USD in total
+  - 1st: 1,000 USD
+  - 2nd 500 USD
 - **Challenges:** `⚠️ TBA ⚠️`
 
 ### 📚 Polkadot Blockchain Academy
@@ -56,7 +58,7 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 ### 🧠 Cere Network
 
-- **Prize:** $1,000 in data credits `⚠️ TBC ⚠️`
+- **Prize:** $1,000 USD in data credits `⚠️ TBC ⚠️`
 
 - **Challenges:**
   - Utilize and improve Cere’s SDK and existing tools of one or more industries to provide a platform for communities to engage with each and others.
