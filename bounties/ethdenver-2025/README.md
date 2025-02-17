@@ -53,7 +53,7 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 ### 📚 Polkadot Blockchain Academy
 
-- **Prize:** Free admission to the PBA-X course (worth $99 USD)  
+- **Prize:** 11x Free admission to the PBA-X course (worth $100 USD each)  
 - **Challenges:** `⚠️ TBA ⚠️`
 
 ### 🧠 Cere Network
