@@ -30,8 +30,6 @@ Coworking opens at 10 AM
 ## February 24 (Monday)
 Coworking opens at 10 AM
 
-[//]: # (- **2:00 PM - 3:00 PM** | Polkadot Educator's Day - JAM Course - By Polkadot Blockchain Academy (PBA) - Location: Attic (L3, 301))
-
 - **11:30 AM - 6:00 PM** | Web3 Marketing Hackathon
   - Location: Attic (L3, 301)
 
