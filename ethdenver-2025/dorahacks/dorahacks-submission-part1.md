@@ -26,7 +26,7 @@ Polkadot Blockspace Hackerhouse - Bounty Board - Hackathon
 
 ## Banner
 
-[Polkadot Blockspace Hackerhouse Bounty Board Banner](./banner.jpg)
+![Polkadot Blockspace Hackerhouse Bounty Board Banner](https://github.com/JoinWebZero/hackathons/blob/main/ethdenver-2025/dorahacks/banner.jpg)
 
 ## Prize Type
 
@@ -42,11 +42,7 @@ Polkadot
 
 ## Custom URL (optional)
 
-http://dorahacks.io/hackathon/polkadot-blockspace-hackerhouse-bounty-board
-
-## Details
-
-Refer to [DoraHacks Submission Part 2 - Details](./dorahacks-submission-part2-details.md)
+http://dorahacks.io/hackathon/polkadot-blockspace-bounty-board
 
 ## Start time
 
@@ -71,3 +67,7 @@ info@joinwebzero.com
 ## Agree to the Terms of Use Agreement
 
 The [Terms of Use Agreement](./DoraHacks%20-%20Terms%20of%20Use%20Agreement.pdf) is to be reviewed and agreed to by WebZero prior to publishing the hackathon.
+
+## Details
+
+Refer to [DoraHacks Submission Part 2 - Details](./dorahacks-submission-part2-details.md)
