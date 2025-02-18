@@ -42,7 +42,7 @@ Polkadot
 
 ## Custom URL (optional)
 
-http://dorahacks.io/hackathon/polkadot-blockspace-hackerhouse-bounty-board
+http://dorahacks.io/hackathon/polkadot-blockspace-bounty-board
 
 ## Start time
 
