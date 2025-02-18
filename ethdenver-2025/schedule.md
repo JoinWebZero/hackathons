@@ -30,7 +30,10 @@ Coworking opens at 10 AM
 ## February 24 (Monday)
 Coworking opens at 10 AM
 
-- **11:30 AM - 6:00 PM** | Web3 Marketing Hackathon
+- **10:00 AM - 12:00 PM** | DevRel Brunch
+  - Location: Downstairs
+
+- **12:00 PM - 6:00 PM** | Web3 Marketing Hackathon
   - Location: Attic (L3, 301)
 
 - **6:00 PM - 7:00 PM** | Cetora Workshop
