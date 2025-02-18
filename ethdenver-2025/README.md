@@ -24,24 +24,17 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 ## 📌 Rules
 
-`⚠️ TODO: To be coordinated with WebZero - rules for valid challenge entries and participation requirements ⚠️`
-
-- ⏰ Submission closes at ???
+- ⏰ Submission closes at 10:00 AM MST on Saturday, March 1st, 2025
 - Submit using the same email address
 - Your code, your work
 
-
 ## 🎁 Prize Distribution
 
-`⚠️ TODO: To be coordinated with WebZero - details about prize distribution ⚠️`
+`⚠️ TBC ⚠️`
 
-## 💪 Cumulative Leaderboard
-
-`⚠️ TODO: To be coordinated with WebZero - leaderboard system details if applicable ⚠️`
+Prizes will be distributed by WebZero from a multisig wallet or directly by the bounty sponsor.
 
 ## 🏆 Challenge List
-
-`⚠️ Intro text needed? Specific order? ⚠️`
 
 ### 🤝 Blockchain for Good Alliance (BGA)
 
@@ -52,12 +45,12 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 ### 📚 Polkadot Blockchain Academy
 
-- **Prize:** 11x Free admission to the PBA-X course (worth $100 USD each)  
+- **Prize:** 11x free admission to the PBA-X course (worth $100 USD each)  
 - **Challenge:** Scan the QR code and take the PBA challenge
 
 ### 🧠 Cere Network
 
-- **Prize:** $1,000 USD in data credits `⚠️ TBC ⚠️`
+- **Prize:** The winner will receive a marketing campaign valued at $1,000.
 
 - **Challenges:**
   - Utilize and improve Cere’s SDK and existing tools of one or more industries to provide a platform for communities to engage with each and others.
@@ -80,19 +73,9 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 
 ### 🔗 Bifrost
 
-`⚠️ TODO confirm prize description ⚠️`
-
-- **Prize:** Bounty amount determined based on submission quality.  
+- **Prize:** The bounty amount will be determined by Bifrost based on submission quality.
 - **Challenge:** Submit a proposal application to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), either with a new idea or by selecting one from the list of suggested projects.  
 - **Note:** Bifrost will host a virtual workshop at The Blockspace Mansion and provide virtual support to assist hackers.
-
-## 🗓️ Workshop Participation Challenges
-
-`⚠️ TODO: To be coordinated with WebZero - will a workshop participation challenge take place? ⚠️`
-
-Attend any of these workshops, participate, and submit proof via the challenge submission form to count toward your completed challenges.
-
-1. `⚠️ TODO ⚠️`
 
 ## 💰 Cash Prizes
 
