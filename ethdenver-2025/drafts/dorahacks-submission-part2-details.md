@@ -9,21 +9,23 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 
 **Deadlines & Key Dates:**
 
-23rd February 2025 10:00 AM MST: Hackathon Begins!
-1st March 2025 10:00 AM MST: Submissions Deadline!
+* 23rd February 2025 10:00 AM MST: Hackathon Begins!
+* 1st March 2025 10:00 AM MST: Submissions Deadline!
 
 **Workshops:**
-22nd February 2025 6:00-7:00 PM MST: Workshop - Hackathon Huddle - Developer Meet ‘N Greet at The Blockspace Mansion
-23rd February 2025 11:00-11:55 AM MST: Workshop - Welcome to the EthDenver 2025 x Polkadot Hackathon! + Ecosystem Bounties Workshop at The Blockspace Mansion
-23rd February 2025 2:00-3:30 PM MST: Workshop - Hackathon: Brainstorming Sessions / Hackathon Kick-off Workshop / Team Building / Team Formation at The Blockspace Mansion
-1st March 2025 10:00 AM MST onwards - Judging and Presentations / Demo Day - Hackathon Finale & Pitching at The Blockspace Mansion
-2nd March 2025 until 6:00 PM MST - Winners Announced / Judging and Presentations
+
+* 22nd February 2025 6:00-7:00 PM MST: Workshop - Hackathon Huddle - Developer Meet ‘N Greet at The Blockspace Mansion
+* 23rd February 2025 11:00-11:55 AM MST: Workshop - Welcome to the EthDenver 2025 x Polkadot Hackathon! + Ecosystem Bounties Workshop at The Blockspace Mansion
+* 23rd February 2025 2:00-3:30 PM MST: Workshop - Hackathon: Brainstorming Sessions / Hackathon Kick-off Workshop / Team Building / Team Formation at The Blockspace Mansion
+* 1st March 2025 10:00 AM MST onwards - Judging and Presentations / Demo Day - Hackathon Finale & Pitching at The Blockspace Mansion
+* 2nd March 2025 until 6:00 PM MST - Winners Announced / Judging and Presentations
 
 **Coworking:**
-23 February 2025 - 2nd March 2025 10:00 AM MST - Co-working opens at The Blockspace Mansion
+
+* 23 February 2025 - 2nd March 2025 10:00 AM MST - Co-working opens at The Blockspace Mansion
 
 **Office Hours:**
-27 February 2025 1:00-5:00 PM MST - Polkadot Office Hours at The Blockspace Mansion
+* 27 February 2025 1:00-5:00 PM MST - Polkadot Office Hours at The Blockspace Mansion
 
 There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transporting teams from the official ETHDenver venue to The Blockspace Mansion.
 
@@ -31,7 +33,7 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 
 ## Bifrost
 
-### Sponsor
+### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
         * Answer: Victor Luong, DevRel Lead, Bifrost. Telegram @zxstim
@@ -86,7 +88,7 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 
 ## Cere Network
 
-### Sponsor
+### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
     * Answer: Bren - Ecosystem Growth Lead. Telegram: @nerbke
@@ -161,7 +163,7 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 
 ## Talisman
 
-### Sponsor
+### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
         * Answer: WebZero
@@ -216,7 +218,7 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 
 ## Blockchain for Good Alliance (BGA)
 
-### Sponsor
+### Sponsor Information
 
 .* Who is the Bounty Sponsor Key Contact:
         * Answer: Sandeep
@@ -343,7 +345,7 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 
 ## OpenGuild
 
-### Sponsor
+### Sponsor Information
 
 .* Who is the Bounty Sponsor Key Contact:
         * Answer: Cris
