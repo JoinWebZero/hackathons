@@ -44,6 +44,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What is the Bounty Sponsor Name:
     * **Answer:** Bifrost
 
+* About the Bounty Sponsor:
+    * **Answer:** Bifrost is a liquid staking appchain tailored for all blockchains, utilizing decentralized cross-chain interoperability to empower users to earn staking rewards and DeFi yields with flexibility, liquidity, and high security across multiple chains.
+
 ### Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
@@ -98,6 +101,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Cere Network
+
+* About the Bounty Sponsor:
+    * **Answer:** Cere Network is a decentralized data platform that enables data automation and analysis on edge devices for web3 and AI applications. It is governed by a community-based DAO and offers tools, solutions and adoption-ready SDKs for developers and users.
 
 ### Goal
 
@@ -174,6 +180,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What is the Bounty Sponsor Name:
     * **Answer:** Talisman
 
+* About the Bounty Sponsor:
+    * **Answer:** Talisman is a crypto wallet and asset management dashboard that unlocks a new world of web3 applications for Ethereum and Polkadot. The Talisman browser extension allows you to safely store, send, receive, and harness your assets across relaychains, parachains and everything EVM. The Talisman web app allows you to seamlessly manage your assets in greater detail. Keep track of all your NFTs across all chains and explore new dApps and interesting projects.
+
 ### Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
@@ -228,6 +237,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Blockchain for Good Alliance (BGA)
+
+* About the Bounty Sponsor:
+    * **Answer:** At the Blockchain for Good Alliance (BGA), we harness the transformative power of blockchain technology to tackle some of the most critical challenges facing societies and the world at large today. As a dynamic and collaborative hub, BGA unites a diverse network of stakeholders to drive innovation and implement blockchain-based solutions that contribute to social good. Together, we explore new frontiers, create impactful initiatives, and foster meaningful change on a global scale.
 
 ### Goal
 
@@ -296,6 +308,59 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * Sustainability and Scalability - Can the project be self-sufficient beyond funding and grants, and how scalable is it to other regions? - Weighting: 20
     * User Experience - Is it easy to use? e.g. For those with limited blockchain or tech knowhow? - Weighting: 5
 
+## OpenGuild
+
+### Sponsor Information
+
+* Who is the Bounty Sponsor Key Contact:
+    * **Answer:** Cris
+
+* What is the Bounty Sponsor Name:
+    * **Answer:** OpenGuild
+
+* About the Bounty Sponsor:
+    * **Answer:** OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
+
+### Goal
+
+* What is the goal for each of this Bounty Sponsor's Bounties to be successful?
+    * **Answer:** [Contributions to the OpenGuild Community](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#-contribute-to-openguild-community). Solutions to each of the [challenges](https://github.com/openguild-labs/lost-tribes-challenges) submitted correctly. 
+
+### Prize
+
+* What is the Bounty Prize?
+    * **Answer:** Prize: $100 USD - https://github.com/openguild-labs/lost-tribes-challenges
+
+* Who can win the prizes?
+    * **Answer:** Team members that satisfy the Bounty Sponsor's Minimum Submission Requirements.
+
+### Submission Requirements
+
+* What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
+    * **Answer:**
+        * [Register for the challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#optional-setup-environment-and-register-for-the-challenges)
+        * Submit the "Click to submit your challenge solutions" button in the [Discover the List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#discover-the-list-of-challenges-)
+        * Satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor in the [OpenGuild Lost Tribes Challenges](https://github.com/openguild-labs/lost-tribes-challenges) repository.
+
+* What features is this Bounty Sponsor looking for in a valid Bounty submission?
+    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
+
+* Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
+    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
+
+### Pre-Work and Resources
+
+* What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
+    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
+
+* What resources or equipment does the Bounty Sponsor recommend to participants choosing each of their Bounties to help them to be successful?
+    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
+
+### Judging
+
+* How will the Bounties from this Bounty Sponsor be judged?
+    * **Answer:** Judged only by the Bounty Sponsor according to the [OpenGuild Lost Tribes Repository](https://github.com/openguild-labs/lost-tribes-challenges)
+
 # Judging Panel's Mandatory and Scored Judging Criteria  <a id="judging-mandatory"></a> 
 
 * What is the **Judging Panel's Mandatory Judging Criteria**?
@@ -346,56 +411,6 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
         * How extensive is the code test coverage? Weight: 10
         * How well is the hack documented? How well does the hack reference and use the provided "Bounty Resources" and credit other resources used? Weight: 5
         * How well does the implementation reflect their design goals? Weight: 10
-
-## OpenGuild
-
-### Sponsor Information
-
-* Who is the Bounty Sponsor Key Contact:
-    * **Answer:** Cris
-
-* What is the Bounty Sponsor Name:
-    * **Answer:** OpenGuild
-
-### Goal
-
-* What is the goal for each of this Bounty Sponsor's Bounties to be successful?
-    * **Answer:** [Contributions to the OpenGuild Community](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#-contribute-to-openguild-community). Solutions to each of the [challenges](https://github.com/openguild-labs/lost-tribes-challenges) submitted correctly. 
-
-### Prize
-
-* What is the Bounty Prize?
-    * **Answer:** Prize: $100 USD - https://github.com/openguild-labs/lost-tribes-challenges
-
-* Who can win the prizes?
-    * **Answer:** Team members that satisfy the Bounty Sponsor's Minimum Submission Requirements.
-
-### Submission Requirements
-
-* What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
-    * **Answer:**
-        * [Register for the challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#optional-setup-environment-and-register-for-the-challenges)
-        * Submit the "Click to submit your challenge solutions" button in the [Discover the List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#discover-the-list-of-challenges-)
-        * Satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor in the [OpenGuild Lost Tribes Challenges](https://github.com/openguild-labs/lost-tribes-challenges) repository.
-
-* What features is this Bounty Sponsor looking for in a valid Bounty submission?
-    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
-
-* Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
-    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
-
-### Pre-Work and Resources
-
-* What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
-    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
-
-* What resources or equipment does the Bounty Sponsor recommend to participants choosing each of their Bounties to help them to be successful?
-    * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
-
-### Judging
-
-* How will the Bounties from this Bounty Sponsor be judged?
-    * **Answer:** Judged only by the Bounty Sponsor according to the [OpenGuild Lost Tribes Repository](https://github.com/openguild-labs/lost-tribes-challenges)
 
 # Prize Distribution
 
