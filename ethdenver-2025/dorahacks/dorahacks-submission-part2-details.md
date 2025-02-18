@@ -30,7 +30,7 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transporting teams from the official ETHDenver venue to The Blockspace Mansion.
 
 ![Polkadot Shuttle Bus](
-https://github.com/JoinWebZero/hackathons/blob/main/ethdenver-2025/dorahacks/polkadot-bus.png)
+https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenver-2025/dorahacks/polkadot-bus.png)
 
 # Bounties
 
