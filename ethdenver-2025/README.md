@@ -4,10 +4,9 @@
 
 Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blockspace challenges are designed to get you up to speed with building with Substrate and Ink!, whether you’re a complete beginner or already have some chops to show for.
 
-`⚠️ TODO: update link ⚠️`
-## 👉 Challenge submission form: [https://voedlx91m5k.typeform.com/to/reN3rKZo](https://voedlx91m5k.typeform.com/to/reN3rKZo) 👈
+## 👉 [Challenge submission form](https://voedlx91m5k.typeform.com/to/ymIGMqRo) 👈
 
-### 🚀 Resources to get started: [hacker resources](https://github.com/JoinWebZero/hackathons/tree/main/hacker-resources)
+### 🚀 Quick start: [hacker resources](https://github.com/JoinWebZero/hackathons/tree/main/hacker-resources)
 ![The Blockspace Mansion Denver 2025](header.gif)
 
 </div>
@@ -54,7 +53,7 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 ### 📚 Polkadot Blockchain Academy
 
 - **Prize:** 11x Free admission to the PBA-X course (worth $100 USD each)  
-- **Challenges:** `⚠️ TBA ⚠️`
+- **Challenge:** Scan the QR code and take the PBA challenge
 
 ### 🧠 Cere Network
 
