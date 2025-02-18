@@ -3,7 +3,7 @@
 
 Join the Blockspace Mansion. It will be the hub for showcasing bounties from the Polkadot ecosystem. WebZero has created a collective bounty pool of prizes, contributed by various ecosystem teams in Denver. These are independent from the official ETHDenver #BUIDLathon Polkadot tracks, 
 
-WebZero has reached out to a number of ecosystem teams and aligned their schedules for workshops at the mansion, with available representatives assigned mentoring roles for hackers. There are 'hacker clinic' office hours set up throughout the week and mentors will be invited to book 'slots' for their designated area of expertise.
+WebZero has reached out to a number of ecosystem teams and aligned their schedules for workshops at the mansion, with available representatives assigned mentoring roles for hackers.
 
 # Schedule
 
@@ -28,6 +28,9 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 * 27 February 2025 1:00-5:00 PM MST - **Polkadot Office Hours at The Blockspace Mansion**
 
 There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transporting teams from the official ETHDenver venue to The Blockspace Mansion.
+
+![Polkadot Shuttle Bus](
+https://github.com/JoinWebZero/hackathons/blob/main/ethdenver-2025/dorahacks/polkadot-bus.png)
 
 # Bounties
 
