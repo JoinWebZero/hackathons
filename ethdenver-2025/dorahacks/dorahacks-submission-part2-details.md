@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
-    * **Answer:** Successful data wallet integration
+    * **Answer:** Three (3) successful data wallet integrations.
 
 * What is the impact on this Bounty Sponsor's organization and Polkadot by one or more teams effectively working on each of their developer Bounties?
     * **Answer:** Valuable feedback regarding the documentation & ease of use/ease of integration of our technology, which is crucial remove friction and create adoption among developers. Brand awareness is secondary.
@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Prize
 
 * What is the Bounty Prize?
-    * **Answer:** The winner will receive a marketing campaign valued at $1,000 to drive users to their application driven by Cere's Telegram Engagement bot which will create a campaign with custom quest(s) that will use data wallet integration done by the winning team to verify if a certain action was performed in the dApp. However these event triggers are not limited to our Telegram Mini App, they are also the basis for our AI Agent Orchestration tool, which means you'll be able to run open-source ML/AI Agents on the data you store in the data wallet of the users. Completely secure & respecting the privacy of the user 🔥
+    * **Answer:** The winner (1st) will receive a marketing campaign valued at $500, the runner-up (2nd)  and 3rd place will receive a marketing campaign valued at $300 and $200 respectively, that they may use to drive users to their application driven by Cere's Telegram Engagement bot which will create a campaign with custom quest(s) that will use data wallet integration done by the winning team to verify if a certain action was performed in the dApp. However these event triggers are not limited to our Telegram Mini App, they are also the basis for our AI Agent Orchestration tool, which means you'll be able to run open-source ML/AI Agents on the data you store in the data wallet of the users. Completely secure & respecting the privacy of the user 🔥
 
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the Bounty on DoraHacks, and that satisfy the [Judging Panel (Mandatory + Scored Judging Criteria)](#judging-mandatory), the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor.
@@ -416,14 +416,23 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 **Total Cash Pool Value: $2,400 USD**
 
+* $1,000 USD - Blockchain for Good Alliance (BGA) 1st Prize
+* $800 USD - Talisman Winner
+* $500 USD - Blockchain for Good Alliance (BGA) 2nd Prize
+* $30 USD - OpenGuild Lost Tribes Challenge 1 
+* $30 USD - OpenGuild Lost Tribes Challenge 2
+* $40 USD - OpenGuild Lost Tribes Challenge 3
+
+More details about OpenGuild challenges https://github.com/openguild-labs/lost-tribes-challenges
+
 **Total Non-Cash Pool Value: $1,000 USD**
 
-* $1,000 USD - Blockchain for Good Alliance (BGA) 1st Prize
-* $500 USD - Blockchain for Good Alliance (BGA) 2nd Prize
-* $800 USD - Talisman
-* Marketing Campaign valued at $1,000 USD - Cere Network
-* $100 USD - OpenGuild Lost Tribes Challenges https://github.com/openguild-labs/lost-tribes-challenges
-* TBC USD - Bifrost Builder Program https://github.com/bifrost-io/mono/tree/main/builder-program
+* Marketing Campaigns valued at:
+    * $500 USD - Cere Network 1st Prize
+    * $300 USD - Cere Network 2nd Prize
+    * $200 USD - Cere Network 3rd Prize
+
+* Bifrost Builder Program opportunities https://github.com/bifrost-io/mono/tree/main/builder-program
 
 Prizes are funded by each of the Bounty Sponsors, not by WebZero.
 
