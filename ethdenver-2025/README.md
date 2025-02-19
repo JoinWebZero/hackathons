@@ -41,7 +41,8 @@ Prizes will be distributed by WebZero from a multisig wallet or directly by the 
 - **Prize:** $1,500 USD in total
   - 1st: 1,000 USD
   - 2nd 500 USD
-- **Challenges:** `⚠️ TBA ⚠️`
+- **Challenge:** Leverage blockchain technology for real-world social impact. BGA specifically focused on projects aligned with the UN’s 17 Sustainable Development Goals (SDGs), fostering solutions that address challenges in financial inclusion, sustainability, and social innovation.
+- **Links:** Check out https://positiveblockchain.io/database for ideas.
 
 ### 📚 Polkadot Blockchain Academy
 
@@ -79,7 +80,5 @@ Prizes will be distributed by WebZero from a multisig wallet or directly by the 
 
 ## 💰 Cash Prizes
 
-`⚠️ TODO: Replace link ⚠️`
-
-Hack on the bounties to win cash prizes. Check out [DoraHacks](https://dorahacks.io/) for more information and to submit your hack.
+Hack on the bounties to win cash prizes. Check out [DoraHacks](https://dorahacks.io/hackathon/polkadot-blockspace-bounty-board) for more information and to submit your hack.
 
