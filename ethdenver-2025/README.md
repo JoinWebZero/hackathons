@@ -28,11 +28,11 @@ Ready to take on some challenges to level up your skills? The ETHDenver 2025 Blo
 - Submit using the same email address
 - Your code, your work
 
+
 ## 🎁 Prize Distribution
 
-`⚠️ TBC ⚠️`
-
 Prizes will be distributed by WebZero from a multisig wallet or directly by the bounty sponsor.
+
 
 ## 🏆 Challenge List
 
@@ -49,6 +49,7 @@ Prizes will be distributed by WebZero from a multisig wallet or directly by the 
 - **Prize:** 11x free admission to the PBA-X course (worth $100 USD each)  
 - **Challenge:** Scan the QR code and take the PBA challenge
 
+
 ### 🧠 Cere Network
 
 - **Prize:** The winner will receive a marketing campaign valued at $1,000.
@@ -64,6 +65,7 @@ Prizes will be distributed by WebZero from a multisig wallet or directly by the 
 - **Prize:** $800 USD  
 - **Challenge:** Build a dApp that leverages both EVM and Substrate accounts using Talisman, making sure authentication UX is great.
 
+
 ### 🎓 OpenGuild: Lost Tribes Solidity Challenges
 
 - **Prize:** $100 USD  
@@ -72,11 +74,15 @@ Prizes will be distributed by WebZero from a multisig wallet or directly by the 
   - [Challenge Repository](https://github.com/openguild-labs/lost-tribes-challenges)
   - [Lost Tribes Hacker House](https://lu.ma/losttribeshackerhouse)
 
+
 ### 🔗 Bifrost
 
-- **Prize:** The bounty amount will be determined by Bifrost based on submission quality.
-- **Challenge:** Submit a proposal application to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), either with a new idea or by selecting one from the list of suggested projects.  
+- **Prize:** The bounty amount will between $300 and $1,000 USD and determined by Bifrost based on submission quality.
+- **Challenge:** Submit a proposal application to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), either with a new idea or by selecting one from the list of suggested projects. See the link below for more details.
+- **Links:** 
+  - https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025 
 - **Note:** Bifrost will host a virtual workshop at The Blockspace Mansion and provide virtual support to assist hackers.
+
 
 ## 💰 Cash Prizes
 
