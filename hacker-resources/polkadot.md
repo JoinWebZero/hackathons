@@ -24,6 +24,7 @@ _Get started with contract development:_
 
 - [ink!](https://use.ink/): a programming language for Substrate native smart contracts.
 - [Contracts UI](https://ui.use.ink/?rpc=wss://rpc2.paseo.popnetwork.xyz): a simple UI for deploying contracts to various appchains that contain the contracts pallet. 
+- [Create dApp](https://www.npmjs.com/package/create-polkadot-dapp): bootstamp you project in just one command: `npx create-polkadot-dapp@latest`
 
 _Or dive into building with the Polkadot SDK:_
 
