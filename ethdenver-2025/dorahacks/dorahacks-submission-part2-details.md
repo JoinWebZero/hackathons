@@ -19,6 +19,7 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 * 22nd February 2025 6:00-7:00 PM MST: **Workshop - Hackathon Huddle - Developer Meet ‘N Greet at The Blockspace Mansion**
 * 23rd February 2025 11:00-11:55 AM MST: **Workshop - Welcome to the EthDenver 2025 x Polkadot Hackathon! + Ecosystem Bounties Workshop at The Blockspace Mansion**
 * 23rd February 2025 2:00-3:30 PM MST: **Workshop - Hackathon: Brainstorming Sessions / Hackathon Kick-off Workshop / Team Building / Team Formation at The Blockspace Mansion**
+    * Additionally: Join the ["Looking for a team"]( t.me/joinWebzero/2792) WebZero Telegram Group 
 
 **Coworking:**
 
@@ -39,7 +40,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
-    * **Answer:** Victor Luong, DevRel Lead, Bifrost. Telegram @zxstim
+    * **Answer:**
+        * Victor Luong, DevRel Lead, Bifrost. Telegram @zxstim
+        * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Bifrost
@@ -58,15 +61,15 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Prize
 
 * What is the Bounty Prize?
-    * **Answer:** See Bifrost Builder Program https://github.com/bifrost-io/mono/tree/main/builder-program
+    * **Answer:** [Bifrost Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
 
 * Who can win the prizes?
-    * **Answer:** Team members that fully sign up to the to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), and that satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor in the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program).
+    * **Answer:** Team members that fully sign up to the to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), and that satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor at [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025) and [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program).
 
 ### Submission Requirements
 
 * What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
-    * **Answer:** Submit according to the instructions in the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program). A user can smoothly mint any Bifrost LSTs.
+    * **Answer:** Submit according to the instructions in [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025) and the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program). A user can smoothly mint any Bifrost LSTs.
 
 * What features is this Bounty Sponsor looking for in a valid Bounty submission?
     * **Answer:** Able to mint Bifrost LSTs on multiple chains.
@@ -80,7 +83,10 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * **Answer:** Check out link here (https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025)
 
 * What resources or equipment does the Bounty Sponsor recommend to participants choosing each of their Bounties to help them to be successful?
-    * **Answer:** https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#resources
+    * **Answer:** 
+    * [Bifrost ETHDenver WebZero 2025 Resources](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#resources)
+    * [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program)
+
 
 ### Example Use Cases
 
@@ -90,14 +96,16 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
-    * **Answer:** Judged only by the Bounty Sponsor according to the "Bounty Lifecycle" of the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program)
+    * **Answer:** Judged only by the Bounty Sponsor according to the "Judging Criteria", "Submission guidelines", and "Requirements" of the [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025)
 
 ## Cere Network
 
 ### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
-    * **Answer:** Bren - Ecosystem Growth Lead. Telegram: @nerbke
+    * **Answer:**
+        * Bren - Ecosystem Growth Lead. Telegram: @nerbke
+        * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Cere Network
@@ -175,7 +183,8 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
-    * **Answer:** WebZero
+    * **Answer:**
+        * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Talisman
@@ -232,8 +241,10 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 ### Sponsor Information
 
-.* Who is the Bounty Sponsor Key Contact:
-    * **Answer:** Sandeep
+* Who is the Bounty Sponsor Key Contact:
+    * **Answer:**
+        * Sandeep. Telegram @sndpbjri
+        * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Blockchain for Good Alliance (BGA)
@@ -313,7 +324,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ### Sponsor Information
 
 * Who is the Bounty Sponsor Key Contact:
-    * **Answer:** Cris
+    * **Answer:**
+        * Cris. Telegram: @crisng999
+        * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
 
 * What is the Bounty Sponsor Name:
     * **Answer:** OpenGuild
@@ -414,14 +427,17 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 # Prize Distribution
 
-**Total Cash Pool Value: $2,400 USD**
+**Total Cash Pool Value: $3,400 USD**
 
 * $1,000 USD - Blockchain for Good Alliance (BGA) 1st Prize
+* $1,000 USD - Bifrost Winner
 * $800 USD - Talisman Winner
 * $500 USD - Blockchain for Good Alliance (BGA) 2nd Prize
 * $30 USD - OpenGuild Lost Tribes Challenge 1 
 * $30 USD - OpenGuild Lost Tribes Challenge 2
 * $40 USD - OpenGuild Lost Tribes Challenge 3
+
+More details about [Bifrost Cash Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
 
 More details about OpenGuild challenges https://github.com/openguild-labs/lost-tribes-challenges
 
@@ -448,7 +464,8 @@ Bounty Sponsors, WebZero, and their affiliates reserve the right to withhold pri
 
 If you have any questions, feel free to contact the hackathon organizer via their dedicated Telegram, Discord, or other communication channels, or message them vai DoraHacks.
 
-[WebZero - The Blockspace Builders Telegram Group](t.me/joinWebzero/578)
+* [WebZero - The Blockspace Builders Telegram Group](t.me/joinWebzero/578)
+* Join the ["Looking for a team"](t.me/joinWebzero/2792) WebZero Telegram Group
 
 # About us
 
