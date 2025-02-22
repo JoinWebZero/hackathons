@@ -33,6 +33,8 @@ There will be a [Polkadot Shuttle Bus Service](https://lu.ma/joinwebzero) transp
 ![Polkadot Shuttle Bus](
 https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenver-2025/dorahacks/polkadot-bus.png)
 
+**Sign-up to more WebZero events at The Blockspace here https://lu.ma/joinwebzero**
+
 # Bounties
 
 ## Bifrost
