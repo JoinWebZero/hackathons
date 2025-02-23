@@ -406,15 +406,11 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * On-time submission
         * Did the team submit its project by 10:00 AM MST on Saturday, March 1st, 2025?
             * Important: If they send it in even a second after, at 10:00:01 AM, their project won't be accepted and they won't be able to win any prizes."		
-    * In-person presentation answers to judges are at least satisfactory
+    * Answers to judges are at least satisfactory
         * Does the team provide at least satisfactory answers to challenging questions from the judges?
             * Important: Failing to provide satisfactory answers may result in them considering another team's project.		
-    * In-person presentation presence by all team members for all judging and presentations
-        * Is the entire team present in person for all the required judging and presentations that may take place on:
-            * **Important**: All Judging and Presentations for these Bounty Board bounties are an anticipated to occur on **Demo Day** during the hours shown in the [Schedule](#schedule), however it may be necessary for them to occur on 2nd March 2025 if absolutely necessary.
-            * March 1st, 2025 and;
-            * March 2nd, 2025 until 6 PM MST
-            * Important: If their team is unable to present when necessary on Saturday March 1st, 2025 or Sunday March 2nd, 2025, an alternate team will be selected to replace theirs, which includes forfeiting any track prizes.	
+        
+    * #### **Important**: In-person presentations on Demo Day at The Blockspace Mansion are **OPTIONAL**
 
 * What is the **Judging Panel's Scored Judging Criteria**?
     * Usefulness / Practicality and Uniqueness / Originality / Wow Factor:
