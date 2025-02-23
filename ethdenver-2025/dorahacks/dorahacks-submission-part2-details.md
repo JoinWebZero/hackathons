@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * About the Bounty Sponsor:
     * **Answer:** Bifrost is a liquid staking appchain tailored for all blockchains, utilizing decentralized cross-chain interoperability to empower users to earn staking rewards and DeFi yields with flexibility, liquidity, and high security across multiple chains.
 
-### Goal
+### 🏆 Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
     * **Answer:** Usable prototype. Create a proposal application (with a new idea or pick one from the list of suggestions) to the Bifrost Builder Program https://github.com/bifrost-io/mono/tree/main/builder-program Bifrost will run a "virtual" workshop at The Blockspace Mansion and provide "virtual" support to help hackers.
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What is the impact on this Bounty Sponsor's organization and Polkadot by one or more teams effectively working on each of their developer Bounties?
     * **Answer:** Improve UX helping Polkdot to onboard more users
 
-### Prize
+### 🎁 Prize
 
 * What is the Bounty Prize?
     * **Answer:** [Bifrost Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), and that satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor at [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025) and [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program).
 
-### Submission Requirements
+### 👉 Submission Requirements
 
 * What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
     * **Answer:** Submit according to the instructions in [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025) and the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program). A user can smoothly mint any Bifrost LSTs.
@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
     * **Answer:** Yes. UI/UX should be as polished as possible and will be graded accordingly.
 
-### Pre-Work and Resources
+### 📌 Pre-Work and Resources
 
 * What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
     * **Answer:** Check out link here (https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025)
@@ -89,13 +89,12 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * [Bifrost ETHDenver WebZero 2025 Resources](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#resources)
     * [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program)
 
-
 ### Example Use Cases
 
 * What example use cases is this Bounty Sponsor looking to solve with each of their Bounties?
     * **Answer:** Onboard more people, more people can mint LSTs
 
-### Judging
+### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
     * **Answer:** Judged only by the Bounty Sponsor according to the "Judging Criteria", "Submission guidelines", and "Requirements" of the [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025)
@@ -115,7 +114,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * About the Bounty Sponsor:
     * **Answer:** Cere Network is a decentralized data platform that enables data automation and analysis on edge devices for web3 and AI applications. It is governed by a community-based DAO and offers tools, solutions and adoption-ready SDKs for developers and users.
 
-### Goal
+### 🏆 Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
     * **Answer:** Three (3) successful data wallet integrations.
@@ -123,7 +122,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What is the impact on this Bounty Sponsor's organization and Polkadot by one or more teams effectively working on each of their developer Bounties?
     * **Answer:** Valuable feedback regarding the documentation & ease of use/ease of integration of our technology, which is crucial remove friction and create adoption among developers. Brand awareness is secondary.
 
-### Prize
+### 🎁 Prize
 
 * What is the Bounty Prize?
     * **Answer:** The winner (1st) will receive a marketing campaign valued at $500, the runner-up (2nd)  and 3rd place will receive a marketing campaign valued at $300 and $200 respectively, that they may use to drive users to their application driven by Cere's Telegram Engagement bot which will create a campaign with custom quest(s) that will use data wallet integration done by the winning team to verify if a certain action was performed in the dApp. However these event triggers are not limited to our Telegram Mini App, they are also the basis for our AI Agent Orchestration tool, which means you'll be able to run open-source ML/AI Agents on the data you store in the data wallet of the users. Completely secure & respecting the privacy of the user 🔥
@@ -131,7 +130,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the Bounty on DoraHacks, and that satisfy the [Judging Panel (Mandatory + Scored Judging Criteria)](#judging-mandatory), the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor.
 
-### Submission Requirements
+### 👉 Submission Requirements
 
 * What is the eligibility requirements to join?
     * **Answer:** Those satisfying and agreeing to the DoraHacks Eligibility requirements https://dorahacks.io/legal/terms.
@@ -145,7 +144,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
     * **Answer:**  [Judging Panel (Mandatory + Scored Judging Criteria)](#judging-mandatory) PLUS For rapid integration it is advisable to integrate our Cere Wallet opposed to making a new authentication method (which is possible, but too time consuming)
 
-### Pre-Work and Resources
+### 📌 Pre-Work and Resources
 
 * What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
     * **Answer:** Look at the sample Github, try out the TG Mini app & the DDV and create a developer account on https://developer.console.cere.network/. This way Bren from the Cere Network team can send data credits in advance and create a whitelisted bucket.
@@ -162,7 +161,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What example use cases is this Bounty Sponsor looking to solve with each of their Bounties?
     * **Answer:** Cere Data Wallet Integration example: https://github.com/cere-io/cere-data-wallet-integration-example?tab=readme-ov-file. Also a successful, live use case in the shape of a Telegram Mini App: https://t.me/Web3_Community_Bot/viewer?startapp=11_6Tquw8moDpxnxiTApC9TgTZTgnx3xipjHKU65njBnki47wNT. Participants can use the TG Mini app and connect their TG account to our DDV to check out their data interactions: https://ddc.cere.network/
 
-### Judging
+### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
     * **Answer:** **Judging Panel to help the Bounty Sponsor with Judging**. Bounty Sponsor to judge the use case and creativity. Judging Panel to help evaluate the quality of the code.
@@ -194,7 +193,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * About the Bounty Sponsor:
     * **Answer:** Talisman is a crypto wallet and asset management dashboard that unlocks a new world of web3 applications for Ethereum and Polkadot. The Talisman browser extension allows you to safely store, send, receive, and harness your assets across relaychains, parachains and everything EVM. The Talisman web app allows you to seamlessly manage your assets in greater detail. Keep track of all your NFTs across all chains and explore new dApps and interesting projects.
 
-### Goal
+### 🏆 Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
     * **Answer:** To show how great Talisman wallet is for developers and to encourage them to use SIWS (Sign-in with Substrate).
@@ -202,7 +201,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What is the impact on this Bounty Sponsor's organization and Polkadot by one or more teams effectively working on each of their developer Bounties?
     * **Answer:** We hope this can attract more developers into the ecosystem.
 
-### Prize
+### 🎁 Prize
 
 * What is the Bounty Prize?
     * **Answer:** $800 USD
@@ -210,7 +209,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the Bounty on DoraHacks, and that satisfy the Judging Panel's Mandatory Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor.
 
-### Submission Requirements
+### 👉 Submission Requirements
 
 * What is the eligibility requirements to join?
     * **Answer:** Those satisfying and agreeing to the DoraHacks Eligibility requirements https://dorahacks.io/legal/terms.
@@ -224,7 +223,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
     * **Answer:** [Judging Panel (Mandatory + Scored Judging Criteria)](#judging-mandatory) PLUS Yes, the focus is on providing an intuitive and frictionless authentication experience.
 
-### Pre-Work and Resources
+### 📌 Pre-Work and Resources
 
 * What resources or equipment does the Bounty Sponsor recommend to participants choosing each of their Bounties to help them to be successful?
     * **Answer:** Use Talisman Github and Medium articles
@@ -234,7 +233,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What example use cases is this Bounty Sponsor looking to solve with each of their Bounties?
     * **Answer:** Cross-chain Defi, gaming dApps leveraging assets from multiple chains, etc
 
-### Judging
+### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
     * **Answer:** [Judging Panel (Mandatory + Scored Judging Criteria)](#judging-mandatory)
@@ -254,12 +253,12 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * About the Bounty Sponsor:
     * **Answer:** At the Blockchain for Good Alliance (BGA), we harness the transformative power of blockchain technology to tackle some of the most critical challenges facing societies and the world at large today. As a dynamic and collaborative hub, BGA unites a diverse network of stakeholders to drive innovation and implement blockchain-based solutions that contribute to social good. Together, we explore new frontiers, create impactful initiatives, and foster meaningful change on a global scale.
 
-### Goal
+### 🏆 Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
     * **Answer:** The goal of BGA’s bounty is to encourage developers to leverage blockchain technology for real-world social impact. Specifically, we aim to support projects aligned with the UN’s 17 Sustainable Development Goals (SDGs), fostering solutions that address challenges in financial inclusion, sustainability, and social innovation.
 
-### Prize
+### 🎁 Prize
 
 * What is the Bounty Prize?
     * **Answer:** Prize: $1,500 USD (1st: 1000 USD + 2nd 500 USD)
@@ -267,7 +266,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the Bounty on MoleGather, and that satisfy the Bounty Sponsor's Hackathon Scoring Rules, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor.
 
-### Submission Requirements
+### 👉 Submission Requirements
 
 * Where is the link to MoleGather?
      * **Answer:** **Pending** It is yet to be provided by BGA.
@@ -291,7 +290,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
     * **Answer:** While there are no strict UI/UX guidelines, we encourage user-friendly and accessible interfaces that simplify blockchain interactions for non-technical users and for our judging considerations.
 
-### Pre-Work and Resources
+### 📌 Pre-Work and Resources
 
 * What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
     * **Answer:** We require all BGA bounty submissions to be done via MoleGather, our events registration system. Submissions outside of MoleGather at the time of our judging shall not be considered.
@@ -309,7 +308,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
         * Sustainable Development - Goal: Promote sustainable development, including the use of clean energy, addressing environmental issues, and achieving economic sustainable growth.
         * Reduce Inequality - Goal: Reduce disparities in resource distribution within and among countries, addressing issues of inequa`lity in the traditional world.
 
-### Judging
+### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
     * **Answer:** BGA will judge the Bounty independently. If WebZero publishes the bounties on Dorahacks on BGA's behalf, then it must only be a re-direction to the MoleGather event page and it should be clear that submissions outside of MoleGather are not considered. **DO NOT** submit the BGA bounty submission via Dorahacks.
@@ -336,12 +335,12 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * About the Bounty Sponsor:
     * **Answer:** OpenGuild is built by Web3 builders for Web3 builders. Our primary aim is to cater to developers seeking a comprehensive understanding of the Polkadot blockchain, providing curated, in-depth materials with a low-level approach.
 
-### Goal
+### 🏆 Goal
 
 * What is the goal for each of this Bounty Sponsor's Bounties to be successful?
     * **Answer:** [Contributions to the OpenGuild Community](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#-contribute-to-openguild-community). Solutions to each of the [challenges](https://github.com/openguild-labs/lost-tribes-challenges) submitted correctly. 
 
-### Prize
+### 🎁 Prize
 
 * What is the Bounty Prize?
     * **Answer:** Prize: $100 USD - https://github.com/openguild-labs/lost-tribes-challenges
@@ -349,12 +348,12 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Who can win the prizes?
     * **Answer:** Team members that satisfy the Bounty Sponsor's Minimum Submission Requirements.
 
-### Submission Requirements
+### 👉 Submission Requirements
 
 * What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
     * **Answer:**
         * [Register for the challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#optional-setup-environment-and-register-for-the-challenges)
-        * Submit the "Click to submit your challenge solutions" button in the [Discover the List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#discover-the-list-of-challenges-)
+        * Submit the 👉 "Click to submit your challenge solutions" 👈 button in the [Discover the List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges?tab=readme-ov-file#discover-the-list-of-challenges-)
         * Satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor in the [OpenGuild Lost Tribes Challenges](https://github.com/openguild-labs/lost-tribes-challenges) repository.
 
 * What features is this Bounty Sponsor looking for in a valid Bounty submission?
@@ -363,7 +362,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * Are there any UI/UX design requirements of each of this Bounty Sponsor's Bounties?
     * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
 
-### Pre-Work and Resources
+### 📌 Pre-Work and Resources
 
 * What pre-work is required for teams to be appropriately prepared to participate in each of the Bounties for them to build a solution on-time and successfully?
     * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
@@ -371,10 +370,18 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 * What resources or equipment does the Bounty Sponsor recommend to participants choosing each of their Bounties to help them to be successful?
     * **Answer:** Refer to the [OpenGuild Lost Tribes List of Challenges](https://github.com/openguild-labs/lost-tribes-challenges)
 
-### Judging
+### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
     * **Answer:** Judged only by the Bounty Sponsor according to the [OpenGuild Lost Tribes Repository](https://github.com/openguild-labs/lost-tribes-challenges)
+
+# 📚 Polkadot Blockchain Academy
+
+- **Prize:** Free admission to the PBA-X course (worth $100 USD each)
+- **Challenge:** Scan the QR code and take the PBA challenge
+
+![PBA-X](
+https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenver-2025/dorahacks/pba-x.png)
 
 # Judging Panel's Mandatory and Scored Judging Criteria  <a id="judging-mandatory"></a> 
 
@@ -458,7 +465,7 @@ Prizes may be distributed by WebZero from a multisig wallet if requested by a Bo
 
 Bounty Sponsors, WebZero, and their affiliates reserve the right to withhold prizes at their discretion if submissions do not meet the competition's standards.
 
-# Other Developer Resources
+# 🚀 Other Developer Resources
 
 [WebZero Developer Resources](https://github.com/JoinWebZero/hackathons/tree/main/hacker-resources)
 
