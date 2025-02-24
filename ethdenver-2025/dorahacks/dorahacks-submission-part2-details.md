@@ -11,7 +11,7 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 
 * 23rd February 2025 10:00 AM MST: **Hackathon Begins!**
 * 1st March 2025 10:00 AM MST: **Submissions Deadline!**
-* 1st March 2025 1:00-7:00 PM MST - **Demo Day - Hackathon Finale & Pitching at The Blockspace Mansion**
+* 1st March 2025 1:00-7:00 PM MST - **Demo Day - Hackathon Finale & OPTIONAL Pitching at The Blockspace Mansion**
 * 2nd March 2025 until 6:00 PM MST - **Winners Announced**
 
 **Workshops:**
@@ -268,14 +268,14 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 ### 👉 Submission Requirements
 
-* Where is the link to MoleGather?
-     * **Answer:** **Pending** It is yet to be provided by BGA.
+* Where is the registration link to MoleGather with full information about the bounty?
+     * **Answer:** https://www.moledao.io/#/event/5cetaad9
 
 * What is the eligibility requirements to join?
     * **Answer:** Those satisfying and agreeing to any MoleGather requirements.
 
 * What are the Minimum Submission Requirements that constitute a valid Bounty submission to complete each of the Bounty Sponsor's Bounties?
-    * **Answer:** **Submission via MoleGather** and completion of all questions in the submission form. Required to have pitch deck and a pitch video to demonstrate the prototype. **DO NOT** submit the BGA bounty submission via Dorahacks.
+    * **Answer:** **Submission via MoleGather** and completion of all questions in the submission form. Required to have pitch deck and a pitch video to demonstrate the prototype. **DO NOT** submit the BGA bounty submission via Dorahacks, use MoleGather instead.
 
 * What is the impact on this Bounty Sponsor's organization and Polkadot by one or more teams effectively working on each of their developer Bounties?
     * **Answer:** Successful bounty submissions will contribute to BGA’s mission of supporting blockchain’s potential for social good, while also advancing the adoption of impactful blockchain applications. At our sole discretion, they may be invited to the BGA’s incubation program, depending on internal evaluation beyond the hackathon.
@@ -306,12 +306,12 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
         * Global Education Development - Goal: Promote inclusive and equitable quality education, ensuring lifelong learning opportunities for all.
         * Life and Health - Goal: Promote healthy living for everyone using blockchain technology.
         * Sustainable Development - Goal: Promote sustainable development, including the use of clean energy, addressing environmental issues, and achieving economic sustainable growth.
-        * Reduce Inequality - Goal: Reduce disparities in resource distribution within and among countries, addressing issues of inequa`lity in the traditional world.
+        * Reduce Inequality - Goal: Reduce disparities in resource distribution within and among countries, addressing issues of inequality in the traditional world.
 
 ### 🎓 Judging
 
 * How will the Bounties from this Bounty Sponsor be judged?
-    * **Answer:** BGA will judge the Bounty independently. If WebZero publishes the bounties on Dorahacks on BGA's behalf, then it must only be a re-direction to the MoleGather event page and it should be clear that submissions outside of MoleGather are not considered. **DO NOT** submit the BGA bounty submission via Dorahacks.
+    * **Answer:** BGA will judge the Bounty independently. If WebZero publishes the bounties on Dorahacks on BGA's behalf, then it must only be a re-direction to the MoleGather event page and it should be clear that submissions outside of MoleGather are not considered. **DO NOT** submit the BGA bounty submission via Dorahacks, use MoleGather instead.
 
 * **BGA Hackathon Scoring Rules**
     * Social Impact - How impactful is the project on society? - Weighting: 30
