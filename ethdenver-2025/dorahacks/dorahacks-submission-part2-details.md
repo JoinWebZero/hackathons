@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * **Answer:** [Bifrost Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
     * Total Prize Pool - $20,000 USD
         * If hacker submissions meet the minimum quality (see Example of Minimum Quality below) and the Minimum Submission Requirements and Judging Criteria then depending on the submission quality that will be eligible for a prize that scales from $300 to $1000. Payment will be from the public Bifrost Multisig https://bifrost.subscan.io/account/136qTNfobHieiT4CHYLwNcrjUj92YBYV8BViaj49LCx5AW5z
-            * Example of Minimum Quality https://dotui.buildstation.org/mint-redeem-lst-bifrost. Note that just copying that code and not making any changes wouldn't qualify. If you fork the code and leverage the various pre-built components, then build your own UI, then it should be ok as long as you meet the Minimum Submission Requirements  and Judging Criteria.
+            * Example of Minimum Quality https://dotui.buildstation.org/mint-redeem-lst-bifrost. Note that just copying the example code and not making any changes would not qualify. If you fork the code and leverage the various pre-built components, then build your own UI, then it should be ok as long as you meet the Minimum Submission Requirements  and Judging Criteria.
         * If hacker teams are struggling to meet the minimum quality requirements then Bifrost and DevRels from WebZero will provide them with support to help push them along.
 
 * Who can win the prizes?
