@@ -51,6 +51,8 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
     * **Answer:**
         * Victor Luong, DevRel Lead, Bifrost. Telegram @zxstim
         * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
+        * Additonal Support
+            * Hackers at all time can DM this account for support: https://x.com/FrostyLst or join the Bifrost X community https://x.com/i/communities/1866708831591600383
 
 * What is the Bounty Sponsor Name:
     * **Answer:** Bifrost
@@ -70,6 +72,10 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 * What is the Bounty Prize?
     * **Answer:** [Bifrost Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
+    * Total Prize Pool - $20,000 USD
+        * If hacker submissions meet the minimum quality (see Example of Minimum Quality below) and the Minimum Submission Requirements and Judging Criteria then depending on the submission quality that will be eligible for a prize that scales from $300 to $1000. Payment will be from the public Bifrost Multisig https://bifrost.subscan.io/account/136qTNfobHieiT4CHYLwNcrjUj92YBYV8BViaj49LCx5AW5z
+            * Example of Minimum Quality https://dotui.buildstation.org/mint-redeem-lst-bifrost. Note that just copying that code and not making any changes wouldn't qualify. If you fork the code and leverage the various pre-built components, then build your own UI, then it should be ok as long as you meet the Minimum Submission Requirements  and Judging Criteria.
+        * If hacker teams are struggling to meet the minimum quality requirements then Bifrost and DevRels from WebZero will provide them with support to help push them along.
 
 * Who can win the prizes?
     * **Answer:** Team members that fully sign up to the to the [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program), and that satisfy the Bounty Sponsor's Judging Criteria, the Minimum Submission Requirements, and any other requirements specified by the Bounty Sponsor at [Bifrost ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025) and [Bifrost Builder Program](https://github.com/bifrost-io/mono/tree/main/builder-program).
@@ -451,17 +457,17 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 # Prize Distribution
 
-**Total Cash Pool Value: $3,400 USD**
+**Total Cash Pool Value: $22,400 USD**
 
+* $20,000 USD - Bifrost Total Prize Pool
 * $1,000 USD - Blockchain for Good Alliance (BGA) 1st Prize
-* $1,000 USD - Bifrost Winner
 * $800 USD - Talisman Winner
 * $500 USD - Blockchain for Good Alliance (BGA) 2nd Prize
 * $30 USD - OpenGuild Lost Tribes Challenge 1 
 * $30 USD - OpenGuild Lost Tribes Challenge 2
 * $40 USD - OpenGuild Lost Tribes Challenge 3
 
-More details about [Bifrost Cash Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes)
+More details about [Bifrost Cash Prizes for ETHDenver WebZero 2025](https://github.com/bifrost-io/mono/tree/main/hackathon/ethdenver-webzero-2025#prizes). Each submission may be eligible for a prize that ranges from between $300 and $1,000 depending on its submission quality.
 
 More details about OpenGuild challenges https://github.com/openguild-labs/lost-tribes-challenges
 
