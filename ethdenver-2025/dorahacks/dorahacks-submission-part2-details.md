@@ -5,6 +5,9 @@ Join the Blockspace Mansion. It will be the hub for showcasing bounties from the
 
 WebZero has reached out to a number of ecosystem teams and aligned their schedules for workshops at the mansion, with available representatives assigned mentoring roles for hackers.
 
+* Where is the presentation "Welcome to ETHDenver + Ecosystem Bounty Workshop"?
+    * **Answer:** https://docs.google.com/presentation/d/1y0TsJ280x-naIILvOw93qoMXLdWhbW_fldBWUMR5euM/ 
+
 # Schedule
 
 **Deadlines & Key Dates:**
@@ -40,6 +43,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ## Bifrost
 
 ### Sponsor Information
+
+* Where is the Bounty Sponsor Presentation?
+    * **Answer:** https://docs.google.com/presentation/d/1u9nAVp7_e_8l_7ey693w6hbD9bCo0NKKhzSawdLUMcI/
 
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
@@ -102,6 +108,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ## Cere Network
 
 ### Sponsor Information
+
+* Where is the Bounty Sponsor Presentation?
+    * **Answer**: https://drive.google.com/file/d/1g2W76bMlb1aG9cZPL62kXkmcW33zNqtV/
 
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
@@ -183,6 +192,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 ### Sponsor Information
 
+* Where is the Bounty Sponsor Presentation?
+    * **Answer:** https://docs.google.com/presentation/d/1y0TsJ280x-naIILvOw93qoMXLdWhbW_fldBWUMR5euM/
+
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
         * WebZero. Telegram: [https://t.me/joinWebzero/2](https://t.me/joinWebzero/2)
@@ -241,6 +253,10 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ## Blockchain for Good Alliance (BGA)
 
 ### Sponsor Information
+
+* Where is the Bounty Sponsor Presentation?
+    * **Answer:** 
+        * https://www.canva.com/design/DAGf8Ova7xo/4YFI1aZptZagbV4ZCxd7Hw/view?utm_content=DAGf8Ova7xo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdce8767662
 
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
@@ -323,6 +339,9 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 ## OpenGuild
 
 ### Sponsor Information
+
+* Where is the Bounty Sponsor Presentation?
+    * **Answer:** https://docs.google.com/presentation/d/1y0TsJ280x-naIILvOw93qoMXLdWhbW_fldBWUMR5euM/
 
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
