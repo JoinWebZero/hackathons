@@ -109,6 +109,7 @@ _Have a look at the Polkadot Wiki for a complete list of tools in the Polkadot e
 * [Polkadot Blockchain Academy Course Materials Book](https://polkadot-blockchain-academy.github.io/pba-book/index.html)
 * [Polkadot Wiki](https://wiki.polkadot.network/)
 * [Polkadot Forum](https://forum.polkadot.network/)
+* [Polkadot Tooling Collective Mission List](https://github.com/polkadot-tooling-collective/collective/blob/master/mission_list.md)
 
 ## 🛜 Testnets 
 
