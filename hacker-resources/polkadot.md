@@ -105,6 +105,7 @@ _Have a look at the Polkadot Wiki for a complete list of tools in the Polkadot e
 
 ### Other Resources:
 
+* [AwesomeDOT](https://github.com/haquefardeen/awesome-dot)
 * [Substrate and Polkadot Beta StackExchange](https://substrate.stackexchange.com/)
 * [Polkadot Blockchain Academy Course Materials Book](https://polkadot-blockchain-academy.github.io/pba-book/index.html)
 * [Polkadot Wiki](https://wiki.polkadot.network/)
