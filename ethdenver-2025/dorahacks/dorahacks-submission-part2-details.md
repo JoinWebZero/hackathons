@@ -8,6 +8,9 @@ WebZero has reached out to a number of ecosystem teams and aligned their schedul
 * Where is the presentation "Welcome to ETHDenver + Ecosystem Bounty Workshop"?
     * **Answer:** https://docs.google.com/presentation/d/1y0TsJ280x-naIILvOw93qoMXLdWhbW_fldBWUMR5euM/ 
 
+* Where are the slides for the presentation "Polkadot for Developers"?
+    * **Answer:** https://docs.google.com/presentation/d/1MaS3RQBBKIgk7lkQOaFkxmsnQHwryUpYiX2auRVorx8/
+
 # Schedule
 
 **Deadlines & Key Dates:**
