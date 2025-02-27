@@ -8,20 +8,12 @@
 
 #### Quick Start 🚀
 
-<div align="center">
-
-**[Hacker Resources](https://github.com/JoinWebZero/hackathons/tree/main/hacker-resources)**
-
-</div>
+* **[Hacker Resources](https://github.com/JoinWebZero/hackathons/tree/main/hacker-resources)**
 
 #### Table of Contents
 
-<div align="center">
-
-- [ETHDenver #BUIDLathon Polkadot Sponsor Bounty Tracks](#polkadot-hackathon)
-- [The Blockspace Hackerhouse Hackathon Bounty Board](#blockspace-hackathon)
-
-</div>
+* [ETHDenver #BUIDLathon Polkadot Sponsor Bounty Tracks](#polkadot-hackathon)
+* [The Blockspace Hackerhouse Hackathon Bounty Board](#blockspace-hackathon)
 
 ## 💰 Polkadot Sponsor Bounty Tracks <a id="polkadot-hackathon"></a>
 
