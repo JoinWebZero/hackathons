@@ -47,8 +47,8 @@ https://raw.githubusercontent.com/JoinWebZero/hackathons/refs/heads/main/ethdenv
 
 ### Sponsor Information
 
-* Where is the Bounty Sponsor Presentation?
-    * **Answer:** https://docs.google.com/presentation/d/1u9nAVp7_e_8l_7ey693w6hbD9bCo0NKKhzSawdLUMcI/
+* Where is the Bounty Sponsor Presentation Video?
+    * **Answer:** https://youtu.be/LCEPFVbm7YQ
 
 * Who is the Bounty Sponsor Key Contact:
     * **Answer:**
